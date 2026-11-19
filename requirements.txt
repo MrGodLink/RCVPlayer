@@ -1,0 +1,9 @@
+# Runtime dependencies bundled inside the RCVPlayer AppImage.
+# The AppImage is self-contained: these are listed for transparency only;
+# end users do NOT need to install them.
+PySide6-Addons>=6.5,<7
+PySide6-Essentials>=6.5,<7
+numpy>=1.24
+
+# Build-time only (used by build.py to produce the AppImage, not bundled):
+#   pip install pyinstaller>=6.0

@@ -1,0 +1,36 @@
+RCVPlayer — Binary Distribution License
+
+Copyright © 2026 Raffaele Catapano. All rights reserved.
+
+1. Grant of license. Raffaele Catapano grants you a free, non-exclusive,
+   non-transferable, perpetual license to install and run the compiled
+   RCVPlayer AppImage binary ("the Software") for personal use.
+
+2. Restrictions. You may not, and may not allow others to:
+   (a) reverse engineer, decompile, disassemble or otherwise attempt to derive
+       the source code of the Software;
+   (b) modify, merge, adapt or create derivative works of the Software;
+   (c) redistribute, sublicense, sell, lease, rent or host the Software, in whole
+       or in part, without prior written permission from the author;
+   (d) remove or alter any copyright notice, credit or license term.
+
+3. Source code. The source code of RCVPlayer is proprietary and is not
+   distributed. This license covers the compiled AppImage binary only.
+
+4. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   express or implied, including without limitation the warranties of
+   merchantability, fitness for a particular purpose and non-infringement. In no
+   event shall the author be liable for any claim, damages or other liability,
+   whether in contract, tort or otherwise, arising from the use of the Software.
+
+5. Third-party components. The Software bundles the following third-party
+   components, which remain under their own licenses and are NOT covered by this
+   license:
+
+   - PySide6 and the Qt libraries — GNU Lesser General Public License v3
+     (LGPL-3.0-or-later). Source: https://www.qt.io / https://code.qt.io
+   - FFmpeg (via the Qt FFmpeg multimedia backend) — GNU LGPL/GPL depending on
+     build configuration. Source: https://ffmpeg.org
+   - NumPy — BSD-3-Clause license. Source: https://numpy.org
+
+6. Contact. Raffaele Catapano — https://github.com/MrGodLink
